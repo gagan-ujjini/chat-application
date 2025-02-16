@@ -1,1 +1,1 @@
-# chat-application
+# Real Time chat application
