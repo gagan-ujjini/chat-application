@@ -21,3 +21,6 @@ DEVELOPMENT AND INFRASTRUCTURE TOOLS
 - WEB Sockets: Deals with or provides continuous two way communication between Client & Server
 - Message Broker: Directs messages to correct place
 - SockJS: Used in cases where we are not able to use websockets (Fallback for websockets)
+
+#### Sample Application screenshot
+<img width="1413" alt="Image" src="https://github.com/user-attachments/assets/5745f8ea-3505-4c43-b107-0e2887f46566" />
