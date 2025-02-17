@@ -1,5 +1,8 @@
 # Real Time chat application
-## Technologies Used
+## OVERVIEW
+A real time chat application built using Java SpringBoot and websockets along with SockJS and StompJS
+
+## TECHNOLOGIES USED
 BACKEND (Server-Side)
 - Spring boot
 - Spring WebSocket
